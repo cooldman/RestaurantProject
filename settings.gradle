@@ -1,0 +1,4 @@
+rootProject.name = 'RestaurantProject'
+
+include 'dataimporter'
+include 'common'
